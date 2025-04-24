@@ -62,6 +62,14 @@ function App() {
         >
           📗 여행
         </a>
+        <a
+          className="link-button"
+          href="https://cat-delta-tawny.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          📘 고양이
+        </a>
       </div>
     </div>
   );
